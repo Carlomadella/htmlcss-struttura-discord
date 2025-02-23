@@ -66,7 +66,7 @@ li{
 
 .contenuto{
     height: 300px;
-    border: 2px dashed #000;
+    border: 1px dashed black;
     margin: 20px 0;
 }
 
@@ -85,3 +85,8 @@ li{
 .sfondo-pelle{
     background-color: #ffc0ca;
 }
+
+.sfondo-grigio{
+    background-color: #D3D3D3;
+}
+
