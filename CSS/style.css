@@ -69,3 +69,19 @@ li{
     border: 2px dashed #000;
     margin: 20px 0;
 }
+
+.sezione-grande{
+    width: 60%;
+}
+
+.sezione-piccola{
+    width: 40%;
+}
+
+.sfondo-azzurro{
+    background-color: #1e90ff;
+}
+
+.sfondo-pelle{
+    background-color: #ffc0ca;
+}
