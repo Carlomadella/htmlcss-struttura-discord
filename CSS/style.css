@@ -135,3 +135,20 @@ li{
 .sfondo-verdeacqua{
     background-color: #20B3AA;
 }
+
+.space-between{
+    justify-content: space-between;
+}
+
+.contenitore-finale{
+    width: 100%;
+    height: 80px;
+    border: 1px solid black;
+    margin-top: 10px;
+}
+
+.contenitore-bottoni{
+    width: 100px;
+    border: 1px dashed black;
+    margin: 25px 0;
+}
