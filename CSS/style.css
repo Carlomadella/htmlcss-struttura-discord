@@ -106,3 +106,32 @@ li{
 .center{
     justify-content: center;
 }
+
+.sfondo-nero{
+    background-color: black;
+}
+
+.sezione-moltopiccola{
+    width: 30%;
+}
+
+.sfondo-salmone{
+    background-color: #DD7877;
+}
+
+.stretch{
+    align-content: stretch;
+}
+
+.contenuto-sez{
+    height: 300px;
+    border: 1px dashed white;
+}
+
+.pr-flex-grow{
+    flex-grow: 1;
+}
+
+.sfondo-verdeacqua{
+    background-color: #20B3AA;
+}
