@@ -14,7 +14,7 @@ header{
 }
 
 .container{
-    max-width: 1180px;
+    max-width: 1300px;
     margin: 0 auto;
 }
 
@@ -94,3 +94,15 @@ li{
     background-color: #D3D3D3;
 }
 
+.sezione-gigante{
+    width: 75%;
+    align-items: center;
+}
+
+.sfondo-verde{
+    background-color: #218B21;
+}
+
+.center{
+    justify-content: center;
+}
